@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Batch Edit mode - How to remove already selected ComboBox column items
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t449262/)**
+<!-- run online end -->
 
 
 This example illustrates how to remove ComboBox column items already selected in any grid cell, i.e. allow selecting only unique ComboBox values when the Batch edit mode is used.
